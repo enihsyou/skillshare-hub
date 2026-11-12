@@ -1,0 +1,18 @@
+config.yaml
+.DS_Store
+
+# Skillshare runtime files
+/logs/
+/trash/
+**/backups/
+/extensions/
+/ui/
+/version-check.json
+/skill-version-check.json
+/hooks/state.json
+/hooks/operation.lock
+/mcp/state.json
+/mcp/operation.lock
+
+# Symlinked skills
+/skills/dotfiles/
