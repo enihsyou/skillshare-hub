@@ -14,5 +14,3 @@ config.yaml
 /mcp/state.json
 /mcp/operation.lock
 
-# Symlinked skills
-/skills/dotfiles/
