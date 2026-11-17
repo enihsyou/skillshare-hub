@@ -14,6 +14,42 @@
         "SKILL.md": "sha256:287e3d05aeabf6409fa53b74a124ee0d897338009be2c04d3e38c352ca74a3c1"
       }
     },
+    "ego-browser": {
+      "source": "github.com/citrolabs/ego-lite/skills/ego-browser",
+      "type": "github-subdir",
+      "installed_at": "2026-11-14T12:10:12.9630993+08:00",
+      "repo_url": "https://github.com/citrolabs/ego-lite.git",
+      "subdir": "skills/ego-browser",
+      "version": "bacaece",
+      "tree_hash": "f1ffe63fbdc36b9a32be9a59394854d1e3f4e6f0",
+      "commit": "bacaece43900e8ca68eea3b6f1663835ea38df9e",
+      "file_hashes": {
+        "SKILL.md": "sha256:589717e56074b50440d6c6f4da4d81a7c807f3b81ae22431df9d2c1940eb76b1",
+        "agents/openai.yaml": "sha256:81a941e83feb556827d72aa98d7bc97a909294e386ff9f6a1817de92e8767b89",
+        "assets/composer-icon.png": "sha256:2822b28752520f2a5506cb0693c8db2fd1ec0345806454b5f92d999b84b5bc1f",
+        "assets/logo.png": "sha256:cec732e29ea3b03d8920b28d912306f43651186dc2f4a488800da9db0a50f993",
+        "learnings/github/browser-tools/repo-stats.js": "sha256:99f5de2388ebbd24646f43e438587a161988c54f5dab23a7ab23de6c8c8f6bd5",
+        "learnings/github/manifest.json": "sha256:a5d459ccb7849a4fa9a8086a0a7452886465f7e46cf4afcce12a998d6e140e3c",
+        "learnings/github/notes/overview.md": "sha256:2f5ff75d91526b232d725a8f1c89be7f846fdb334324fa92054fcf868cbba22e",
+        "learnings/github/tools/open-issues.js": "sha256:54405d5b5a213372aa2541cd8f6dc141b30ab97fc13072135e466f5f14e996a4",
+        "learnings/github/tools/search-repos.js": "sha256:6fcbffbebba96d690187d9123d5226846da60e82991e9f0ec0bbf1568cd9c4be",
+        "learnings/google/browser-tools/autocomplete.js": "sha256:95ad95f370533bf56a554e7d79ac39f16f860d1ca4d8c6eb01876fd120beb146",
+        "learnings/google/manifest.json": "sha256:639e61238ccdb0ee06855fb8ce2585f6f3e9fcfff86ccafc54c20a48c6e00f74",
+        "learnings/google/notes/overview.md": "sha256:78771e9a1f6960efa5e91261dfe44ec5dde7f485a1b181334912a2e45f751865",
+        "learnings/google/tools/search-extract.js": "sha256:96350a2d6657f8efc79b639b397ba74d9b5af218f12b6261df1f92e0cb493d34",
+        "learnings/x-com/browser-tools/extract-post.js": "sha256:338db35bdf4d83258f5b646e67d38fb7f63bdbd243bac2e94236bb348b6ff64f",
+        "learnings/x-com/manifest.json": "sha256:4eb12fecbaa37cc41e8b556e3eea1dc006d6ee587368fb318eca6dd3910fd896",
+        "learnings/x-com/notes/overview.md": "sha256:23ef996495cf14b24809e29d5bcdfb3d049bb97fa26b5eebda3e035f1ed6ed1d",
+        "learnings/x-com/notes/timeline.md": "sha256:1a1cde5c3f432329b8dee566a65415c2ed5fd93ed556b541bc20e05234889278",
+        "learnings/x-com/tools/search-users.js": "sha256:b780616e32761f80e9524375c144b053e920109d49e550281950d0a7fcbd0f74",
+        "learnings/x-com/tools/timeline.js": "sha256:6ac5b706a3cc32ea73ffb80d766c0cd78b63489d4f985563fa78d534a28825f7",
+        "references/clearing-state.md": "sha256:c9a022df55f396607ec8b7dc486ab452f1a133fd04fd954a2ff3f86c4df9458c",
+        "references/install-macos.md": "sha256:59e7103d5a9f4e243f2562a21adb75ba6d1d6109d7b4d7fa3c137258c18a7316",
+        "references/install-windows.md": "sha256:cc7efc842b39a280ce8a6173ad6942a39c5c855b52d3dbd60b2b235ef604e74d",
+        "references/install.md": "sha256:c58027080a75aded7e637353ee19496a7d3ffbe0a0297e75fdec615cbde33c64",
+        "scripts/install.sh": "sha256:0dcfb371dc37c61fb61cf31747d9c97f72f5b071147815857734d2096db9d2a3"
+      }
+    },
     "gh": {
       "source": "https://github.com/cli/cli/blob/trunk/skills/gh/SKILL.md",
       "type": "github-subdir",

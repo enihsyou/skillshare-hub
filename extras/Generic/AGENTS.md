@@ -9,6 +9,7 @@
 - 下载 GitHub Release 或 Raw 文件时，在原始完整 URL 前加 `https://gh-proxy.org/` 使用代理
 - 拉取 Docker 镜像时使用用户 ~/.dotfiles/pwsh 中的 docker-pull-mirror 函数
 - 能确定版本号时优先从源码而不是逆向分析，shallow clone 到临时路径
+- 禁止在正常回答后，习惯性追加"不能证明、不能认定、不代表、不等于、不足以判断、不能保证"等否定式限定。请直接陈述事实与证据，不主动做无谓的自我否定。
 
 ## 代码编写
 
